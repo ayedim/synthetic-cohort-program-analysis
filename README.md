@@ -1,6 +1,6 @@
-## SYNTHETIC COHORT MODELING OF SEMINARY FORMATION ATTRITION
+# SYNTHETIC COHORT MODELING OF SEMINARY FORMATION ATTRITION
 
-# REPOSITORY OVERVIEW
+## REPOSITORY OVERVIEW
 
 This repository contains analytical materials supporting a synthetic cohort modeling project examining seminary formation attrition dynamics through rule-based data generation, institutional segmentation analysis, and dashboard reporting.
 
@@ -19,7 +19,7 @@ The framework is descriptive rather than predictive and does not represent real 
 
 ---
 
-# REPOSITORY STRUCTURE
+## REPOSITORY STRUCTURE
 
 /Documentation
 
@@ -67,7 +67,7 @@ Contents include:
 
 ---
 
-# SCOPE
+## SCOPE
 
 Primary objectives included:
 
@@ -105,7 +105,7 @@ Primary tools and methods used include:
 
 ---
 
-# NAVIGATION GUIDANCE
+## NAVIGATION GUIDANCE
 
 Reviewers seeking a high-level overview should begin with the Executive Memorandum located in the /Documentation directory.
 
@@ -119,7 +119,7 @@ Supporting literature and reference materials are located in /Resources.
 
 ---
 
-# METHODOLOGICAL CONSTRAINTS
+## METHODOLOGICAL CONSTRAINTS
 
 This project uses entirely synthetic data generated through rule-based logic structures informed by published aggregate reporting, seminary enrollment reporting, ordination summaries, and qualitative attrition literature.
 
