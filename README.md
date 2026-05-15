@@ -19,51 +19,44 @@ The framework is descriptive rather than predictive and does not represent real 
 
 ---
 
-## REPOSITORY STRUCTURE
+Repository contents are organized as standalone analytical deliverables and supporting files.
 
-/Documentation
+Primary project materials include:
 
-Project, Implementation, and workflow documentation.
+### Documentation
 
+- `01_Executive_Memorandum.pdf`  
+  High-level overview of project purpose, analytical framing, findings, and interpretive limitations.
 
-Contents include:
+- `02_Methodology_Memorandum.pdf`  
+  Documentation of analytical logic, variable construction, segmentation framework, and workflow design.
 
-- Executive Memorandum
-- Methodology Memorandum
-- Technical Appendix
+- `03_Technical_Appendix.pdf`  
+  Detailed technical materials supporting synthetic cohort construction, variable operationalization, validation procedures, and implementation logic.
 
-/Data
+### Data and Analytical Files
 
-Synthetic dataset exports and supporting files.
+- `Seminary_Attrition_FinalDataset.csv`  
+  Final synthetic cohort dataset.
 
-Contents include:
+- `Seminary_Attrition_Workbook.xlsx`  
+  Structured workbook used for synthetic data generation, validation review, and analytical development.
 
-- CSV dataset exports
-- Excel workbook files
-- static dataset worksheets
-- variable codebook materials
+- `Seminary_Attrition_Codebook.pdf`  
+  Variable definitions, coding structure, typology logic, and methodological notes.
 
-/Dashboard
+### Dashboard Materials
 
-Power BI dashboard and reporting materials.
+- `Seminary_Attrition_Dashboard.pbix`  
+  Power BI implementation file.
 
-Contents include:
+- `Seminary_Attrition_Dashboard.pdf`  
+  Static dashboard export and reporting view.
 
-- Power BI dashboard implementation files
-- dashboard screenshots
-- reporting visualizations
-- segmentation reporting views
+### Supporting Materials
 
-/Resources
-
-Supporting literature and external reference materials.
-
-Contents include:
-
-- seminary enrollment reporting
-- ordination reporting
-- attrition literature
-- institutional reference materials
+- `Supporting_Resources.zip`  
+  Supporting literature, seminary enrollment reporting, ordination reporting, attrition literature, and institutional reference materials used to inform methodological assumptions.
 
 ---
 
@@ -107,15 +100,15 @@ Primary tools and methods used include:
 
 ## NAVIGATION GUIDANCE
 
-Reviewers seeking a high-level overview should begin with the Executive Memorandum located in the /Documentation directory.
+Reviewers seeking a high-level overview should begin with `01_Executive_Memorandum.pdf`.
 
-Reviewers seeking implementation and workflow details should consult the Methodology Memorandum and Technical Appendix located in /Documentation.
+Reviewers seeking implementation details should consult `02_Methodology_Memorandum.pdf` and `03_Technical_Appendix.pdf`.
 
-Dataset exports, workbook files, and codebook materials are located in /Data.
+Technical variable definitions and dataset structure are documented in `Seminary_Attrition_Codebook.pdf`.
 
-Dashboard implementation files and reporting visualizations are located in /Dashboard.
+Dashboard reporting materials are available in `Seminary_Attrition_Dashboard.pdf`, with the editable Power BI implementation contained in `Seminary_Attrition_Dashboard.pbix`.
 
-Supporting literature and reference materials are located in /Resources.
+Supporting literature and reference materials are contained in `Supporting_Resources.zip`.
 
 ---
 
